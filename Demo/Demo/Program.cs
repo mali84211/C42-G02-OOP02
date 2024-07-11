@@ -75,6 +75,44 @@
 
             //}
             #endregion
+
+            #region 4
+            //Car c1;
+
+            //c1 = new Car();
+            //Console.WriteLine(c1);
+
+            //Car C1 = new Car(10, "BMW", 290);
+            //Console.WriteLine(C1);  
+
+            //Car C2 = new Car(20,"BYD");
+            //Console.WriteLine(C2);
+
+            //Car C3 = new Car(30);
+            //Console.WriteLine(C);
+
+            #endregion
+            #region 5
+            //parent p = new Parent(1,2);
+            //Console.WriteLine(p);
+            //Console.WriteLine(P.product());
+
+            //child c=new child(1,2,3);
+            //Console.WriteLine(c.tostring());
+            //Console.WriteLine(c.prouduct());
+            #endregion
+            #region 6
+            //TaypA ObjA=new TaypA();
+            //ObjA.x = 10;//invalid
+            //ObjA.y = 20;//invalid       [PRIVATE]
+            //ObjA.m = 30;//invalid
+
+            //ObjA.Z = 40;//invalid         [INTERNAL]  
+
+            //TaypB ObjB = new TaypB();
+            //ObjB.X=10//INVALID
+
+            #endregion
         }
     }
 }
