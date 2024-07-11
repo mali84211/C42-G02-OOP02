@@ -31,6 +31,50 @@
             //employee.age = 30;
 
             #endregion
+
+            #region V2
+            //string[] Name;
+            //int[] Numbers;
+            //int[] Size;
+
+
+            //Public int Size{
+
+            //    get     { return Size; }
+            //    set{ Size = Value; }
+            //}
+
+            //phonebook Note = new phonebook();
+            //Note.AddPerson(0,"ali",123);
+            //Note.AddPerson(1,"amr",456);
+            //Note.AddPerson(2,"mona",798);
+
+            //int monaNumber = Note.GetPersonNumber("Mona");
+            //Console.WriteLine(monaNumber==-1 ? "Person not found" : monaNumber);
+            //Note.SetPersonNumber("mona",999);
+
+            //VEDIO 3
+
+
+            //phonebook["mona"] = 999;
+            //Console.WriteLine(phonebook["mona"]);
+
+
+            //Console.WriteLine(Note["mona"]);
+            //Note["mona"] = 999;
+            //Console.WriteLine(Note["mona"]);
+
+            //string Name = "ali";
+            //Console.WriteLine(Name[0]);
+
+            //Name[0] = 'b'; //invalid
+
+
+            //for (int i = 0; i < Note.Size; i++) {
+            //    Console.WriteLine(Note[i]);
+
+            //}
+            #endregion
         }
     }
 }
